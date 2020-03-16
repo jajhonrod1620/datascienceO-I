@@ -7,6 +7,9 @@ __pycache__/
 *.so
 
 *.csv
+*.xlsx
+*.pptx
+*.docx
 
 # Distribution / packaging
 .Python
